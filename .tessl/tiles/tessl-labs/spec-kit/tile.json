@@ -1,0 +1,39 @@
+{
+  "name": "tessl-labs/spec-kit",
+  "version": "0.6.0",
+  "summary": "Specification-driven development workflow skills for AI coding assistants",
+  "private": false,
+  "docs": "index.md",
+  "skills": {
+    "speckit-00-constitution": {
+      "path": "skills/speckit-00-constitution/SKILL.md"
+    },
+    "speckit-01-specify": {
+      "path": "skills/speckit-01-specify/SKILL.md"
+    },
+    "speckit-02-clarify": {
+      "path": "skills/speckit-02-clarify/SKILL.md"
+    },
+    "speckit-03-plan": {
+      "path": "skills/speckit-03-plan/SKILL.md"
+    },
+    "speckit-04-checklist": {
+      "path": "skills/speckit-04-checklist/SKILL.md"
+    },
+    "speckit-05-testify": {
+      "path": "skills/speckit-05-testify/SKILL.md"
+    },
+    "speckit-06-tasks": {
+      "path": "skills/speckit-06-tasks/SKILL.md"
+    },
+    "speckit-07-analyze": {
+      "path": "skills/speckit-07-analyze/SKILL.md"
+    },
+    "speckit-08-implement": {
+      "path": "skills/speckit-08-implement/SKILL.md"
+    },
+    "speckit-09-taskstoissues": {
+      "path": "skills/speckit-09-taskstoissues/SKILL.md"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "tessl/npm-vite",
+  "version": "7.3.0",
+  "docs": "docs/index.md",
+  "describes": "pkg:npm/vite@7.3.1",
+  "summary": "Native-ESM powered web dev build tool with instant server start, lightning-fast HMR, and optimized production builds",
+  "private": false
+}

@@ -1,0 +1,8 @@
+{
+  "name": "tessl/npm-tailwindcss",
+  "version": "4.1.1",
+  "docs": "docs/index.md",
+  "describes": "pkg:npm/tailwindcss@4.1.18",
+  "summary": "Utility-first CSS framework with programmatic compilation API, plugin system, and theme management for building custom interfaces.",
+  "private": false
+}

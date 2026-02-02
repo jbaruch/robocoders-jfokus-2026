@@ -1,0 +1,7 @@
+{
+  "name": "tessl/npm-react",
+  "version": "19.2.0",
+  "docs": "docs/index.md",
+  "describes": "pkg:npm/react@19.2.0",
+  "summary": "React is a JavaScript library for building user interfaces through a declarative, component-based approach."
+}

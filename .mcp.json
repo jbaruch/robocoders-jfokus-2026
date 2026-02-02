@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "tessl": {
+      "type": "stdio",
+      "command": "tessl",
+      "args": [
+        "mcp",
+        "start"
+      ]
+    },
+    "playwright": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "@anthropic/mcp-server-playwright@latest"
+      ]
+    }
+  }
+}
